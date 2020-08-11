@@ -1,3 +1,14 @@
+This is a ReactJS router app version of my person website found at https://myintro.ml
+
+Initially my intro was a simple HTML and CSS website and it is being served using React. 
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
