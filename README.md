@@ -1,4 +1,4 @@
-This is a ReactJS router app version of my person website found at https://myintro.ml
+This is a ReactJS router app version of my personal website found at https://myintro.ml
 
 Initially my intro was a simple HTML and CSS website and it is being served using React. 
 
