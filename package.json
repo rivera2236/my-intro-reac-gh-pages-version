@@ -14,10 +14,10 @@
     "react-scripts": "^3.0.1"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
-    "test": "npm test",
-    "eject": "npm eject",
+    "start": "yarn start",
+    "build": "yarn build",
+    "test": "yarn test",
+    "eject": "yarn eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
 
