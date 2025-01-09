@@ -1,6 +1,6 @@
 {
-  "homepage": "http://rivera2236.github.io/my-intro-reac-gh-pages-version",
-  "name": "example",
+  "homepage": "http://rivera2236.github.io/my-intro-react-gh-pages-version",
+  "name": "my-intro-react-gh-pages-version",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,10 +14,10 @@
     "react-scripts": "^3.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "npm start",
+    "build": "npm build",
+    "test": "npm test",
+    "eject": "npm eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
 
